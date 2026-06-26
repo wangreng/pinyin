@@ -15,6 +15,14 @@
 - 支持显示/隐藏声调、分隔符切换、大小写切换
 - 优雅的滚动揭示动效
 
+## 开发
+
+```bash
+npm install
+npm run dev     # 启动开发服务器
+npm run build   # 构建生产版本
+```
+
 ## License
 
 MIT
